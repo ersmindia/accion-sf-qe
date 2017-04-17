@@ -12,5 +12,5 @@ for j in range(alpLength, 0, -1):
             temp = alpList[i]
             alpList[i] = alpList[i+1]
             alpList[i+1] = temp
-
+print 'inida'
 print alpList
