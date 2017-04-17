@@ -10,3 +10,5 @@ def aliquotSequence(n):
 print aliquotSequence(10)
 
 print "My name is Khan"
+
+print "I am from India"
